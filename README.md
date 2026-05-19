@@ -1,4 +1,3 @@
-
 # GUESS_COLOR
 
 A two-player color-guessing game written in **Delphi 7** using **Indy UDP** components (`TIdUDPClient` / `TIdUDPServer`). Two peer applications exchange color pairs over UDP and each tries to guess the other's secret combination.
